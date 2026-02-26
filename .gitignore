@@ -1,0 +1,9 @@
+.env
+target/
+node_modules/
+build/
+*.log
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
