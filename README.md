@@ -4,8 +4,6 @@ This project is an expense tracking application deployed using modern DevOps too
 
 The focus was on building a simple application and deploying it using Docker, Kubernetes, CI/CD automation, and Terraform infrastructure.
 
----
-
 ## 🚀 Tech Stack
 
 - Spring Boot
@@ -16,8 +14,6 @@ The focus was on building a simple application and deploying it using Docker, Ku
 - GitHub Actions
 - AWS
 
----
-
 ## ✨ Features
 
 - Add expenses
@@ -25,8 +21,6 @@ The focus was on building a simple application and deploying it using Docker, Ku
 - Delete expenses
 - Containerized deployment
 - Automated CI/CD pipeline
-
----
 
 ## 👨‍💻 Author
 
